@@ -29,8 +29,8 @@ The Directory Monitoring System is an advanced file integrity monitoring tool de
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/CODTECH-IT-SOLUTION/Directory-Monitor.git
-   cd Directory-Monitor
+   git clone https://github.com/CODTECH-IT-SOLUTION/File_Monitoring.git
+   cd File_Monitoring
    ```
 2. Install dependencies:
    ```sh
