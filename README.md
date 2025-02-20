@@ -58,5 +58,5 @@ The Directory Monitoring System is an advanced file integrity monitoring tool de
 
 ## License
 This project is open-source under the MIT License.
-
+## Output
 ![image](https://github.com/user-attachments/assets/582086fb-1ff0-42f9-8f6a-231566ef31cd)
